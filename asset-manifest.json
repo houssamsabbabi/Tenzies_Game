@@ -1,13 +1,13 @@
 {
-  "main.css": "/Tenzies_game/static/css/main.a8150a9c.chunk.css",
-  "main.js": "/Tenzies_game/static/js/main.cbfd41ad.chunk.js",
-  "main.js.map": "/Tenzies_game/static/js/main.cbfd41ad.chunk.js.map",
-  "static/js/1.4727ec55.chunk.js": "/Tenzies_game/static/js/1.4727ec55.chunk.js",
-  "static/js/1.4727ec55.chunk.js.map": "/Tenzies_game/static/js/1.4727ec55.chunk.js.map",
-  "runtime~main.js": "/Tenzies_game/static/js/runtime~main.724d1377.js",
-  "runtime~main.js.map": "/Tenzies_game/static/js/runtime~main.724d1377.js.map",
-  "static/css/main.a8150a9c.chunk.css.map": "/Tenzies_game/static/css/main.a8150a9c.chunk.css.map",
-  "index.html": "/Tenzies_game/index.html",
-  "precache-manifest.7b54cffa5365f3b8e14df2b1afd37df2.js": "/Tenzies_game/precache-manifest.7b54cffa5365f3b8e14df2b1afd37df2.js",
-  "service-worker.js": "/Tenzies_game/service-worker.js"
+  "main.css": "/Tenzies_Game/static/css/main.a8150a9c.chunk.css",
+  "main.js": "/Tenzies_Game/static/js/main.cbfd41ad.chunk.js",
+  "main.js.map": "/Tenzies_Game/static/js/main.cbfd41ad.chunk.js.map",
+  "static/js/1.4727ec55.chunk.js": "/Tenzies_Game/static/js/1.4727ec55.chunk.js",
+  "static/js/1.4727ec55.chunk.js.map": "/Tenzies_Game/static/js/1.4727ec55.chunk.js.map",
+  "runtime~main.js": "/Tenzies_Game/static/js/runtime~main.36083df0.js",
+  "runtime~main.js.map": "/Tenzies_Game/static/js/runtime~main.36083df0.js.map",
+  "static/css/main.a8150a9c.chunk.css.map": "/Tenzies_Game/static/css/main.a8150a9c.chunk.css.map",
+  "index.html": "/Tenzies_Game/index.html",
+  "precache-manifest.a9a2bbfaa174b8398df38b5be810b6f7.js": "/Tenzies_Game/precache-manifest.a9a2bbfaa174b8398df38b5be810b6f7.js",
+  "service-worker.js": "/Tenzies_Game/service-worker.js"
 }

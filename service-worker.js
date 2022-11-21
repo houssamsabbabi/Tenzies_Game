@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Tenzies_game/precache-manifest.7b54cffa5365f3b8e14df2b1afd37df2.js"
+  "/Tenzies_Game/precache-manifest.a9a2bbfaa174b8398df38b5be810b6f7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Tenzies_game/index.html", {
+workbox.routing.registerNavigationRoute("/Tenzies_Game/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
